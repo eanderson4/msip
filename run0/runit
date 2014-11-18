@@ -1,0 +1,25 @@
+#!/bin/bash
+
+touch trial.dat
+touch select.dat
+cp info0 info
+./msip input/big_sim_cplex.in add.cap done
+for i in {0..1..1}
+do
+    ./ls2.py done.dem done.lsa add.cap >> info
+    cp info info$i
+    ./ls2.py done.dem done.lsa add.cap >> trial.dat
+    ./ls2.py done.dem done.lsa add.cap >> select.dat
+    ./step.py
+    for t in {1..4}
+    do
+	./msip input/big_sim_cplex.in t$t.cap t$t
+	./ls2.py t$t.dem t$t.lsa t$t.cap >> trial.dat
+    done
+    tom=$(./choose.py)
+    
+    mv t$tom.cap add.cap
+
+done
+
+	
