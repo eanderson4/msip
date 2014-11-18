@@ -1,0 +1,23 @@
+#!/bin/bash
+count=0
+echo "c1 c2 smp ex se sd  min max var cvar" > results.dat
+top1=164
+top2=32
+for one in {0..25..1}
+do
+    ones=$(echo "$top1*$one/25" | bc)
+    for two in {0..25..1}
+    do
+	twos=$(echo "$top2*$two/25" | bc)
+	echo "Design Capacity -individual" > add.cap
+	echo "67 $ones" >> add.cap
+	echo "79 $twos" >> add.cap
+	count=$((count+1))
+	cat add.cap
+	msip input/big_sim_cplex.in add.cap done
+	ls2.py done.dem done.lsa >> results.dat
+    done
+    echo "" >> results.dat
+done
+
+echo $count

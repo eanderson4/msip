@@ -1,0 +1,23 @@
+#!/bin/bash
+c=0
+
+while [ $c -le 185 ]
+do
+    echo "Loop $c"
+    python makeLINEadd.py $c
+    ./msip input/big_sim_cplex.in add.cap done
+    python runpy.py
+    mv done.lfi output/done$c.lfi
+    mv done.lfa output/done$c.lfa
+    mv done.pob output/done$c.pob
+    mv done.pba output/done$c.pba
+    mv done.lsa output/done$c.lsa
+    mv done.lao output/done$c.lao
+#    rm done*.*
+    c=$(( $c + 1 ))
+done
+
+sleep 7
+
+./makelist
+python process.py < datfiles

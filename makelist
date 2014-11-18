@@ -1,0 +1,4 @@
+#!/bin/bash
+for i in $( ls output/done?.lsa ); do echo $i; done > datfiles
+for i in $( ls output/done??.lsa ); do echo $i; done >> datfiles
+for i in $( ls output/done???.lsa ); do echo $i; done >> datfiles
