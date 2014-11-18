@@ -1,0 +1,27 @@
+name=sim
+
+lineoutage=yes
+Problem and Solve Method
+solvemethod=cplex
+problemtype=sim
+Power Grid
+gridfile=grid2.gr
+
+Line Failure Distribution
+p=.5
+L=.98
+
+Scenario Tree
+stages=6
+outcomesV=10 1 1 1 1 1  
+scenarios=4
+
+Outages
+a=12 14 34 11
+b=12 2 21
+c=82 5 25 34
+d=13 24
+
+Random Numbers
+seed=689294
+

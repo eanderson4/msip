@@ -1,0 +1,866 @@
+
+
+-- Submitter: opt-submit.discovery.wisc.edu : <144.92.142.159:9620?sock=19176_ca3f_3> : opt-submit.discovery.wisc.edu
+ ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD               
+116270.0   hkim           10/20 22:12   0+00:00:02 H  0   0.0  smalljob.m        
+116270.1   hkim           10/20 22:12   0+00:00:02 H  0   0.0  smalljob.m        
+116270.2   hkim           10/20 22:12   0+00:00:02 H  0   0.0  smalljob.m        
+116270.3   hkim           10/20 22:12   0+00:00:02 H  0   0.0  smalljob.m        
+116270.4   hkim           10/20 22:12   0+00:00:02 H  0   0.0  smalljob.m        
+116313.0   ferris         10/21 11:38   1+02:41:04 H  0   7324.2 runit.sh          
+116328.0   ferris         10/21 11:51   0+20:58:26 R  0   9765.6 runit.sh          
+116330.0   ferris         10/21 11:53   1+01:10:43 R  0   36621.1 runit.sh          
+116332.0   ferris         10/21 11:55   0+19:00:17 R  0   9765.6 runit.sh          
+116336.0   ferris         10/21 11:59   0+18:11:36 R  0   7324.2 runit.sh          
+116342.0   ferris         10/21 12:05   0+20:29:05 R  0   26855.5 runit.sh          
+116344.0   ferris         10/21 12:06   0+14:27:03 R  0   3906.2 runit.sh          
+116345.0   ferris         10/21 12:07   0+19:29:52 R  0   24414.1 runit.sh          
+116346.0   ferris         10/21 12:08   0+19:17:32 R  0   21972.7 runit.sh          
+116348.0   ferris         10/21 12:10   0+18:12:41 R  0   24414.1 runit.sh          
+116349.0   ferris         10/21 12:11   0+11:48:29 R  0   9765.6 runit.sh          
+116350.0   ferris         10/21 12:12   0+14:20:20 R  0   34179.7 runit.sh          
+116351.0   ferris         10/21 12:13   0+14:05:19 R  0   7324.2 runit.sh          
+116352.0   ferris         10/21 12:14   0+10:36:28 R  0   29296.9 runit.sh          
+116353.0   ferris         10/21 12:15   0+00:00:33 R  0   0.0  runit.sh          
+116354.0   ferris         10/21 12:16   0+00:00:00 I  0   0.0  runit.sh          
+116355.0   ferris         10/21 12:17   0+00:00:00 I  0   0.0  runit.sh          
+116356.0   ferris         10/21 12:18   0+00:00:00 I  0   0.0  runit.sh          
+116357.0   ferris         10/21 12:19   0+00:00:00 I  0   0.0  runit.sh          
+116358.0   ferris         10/21 12:20   0+00:00:00 I  0   0.0  runit.sh          
+116359.0   ferris         10/21 12:20   0+00:00:00 I  0   0.0  runit.sh          
+116360.0   ferris         10/21 12:21   0+00:00:00 I  0   0.0  runit.sh          
+116361.0   ferris         10/21 12:22   0+00:00:00 I  0   0.0  runit.sh          
+116362.0   ferris         10/21 12:23   0+00:00:00 I  0   0.0  runit.sh          
+116363.0   ferris         10/21 12:24   0+00:00:00 I  0   0.0  runit.sh          
+116364.0   ferris         10/21 12:25   0+00:00:00 I  0   0.0  runit.sh          
+116365.0   ferris         10/21 12:26   0+00:00:00 I  0   0.0  runit.sh          
+116366.0   ferris         10/21 12:27   0+00:00:00 I  0   0.0  runit.sh          
+116367.0   ferris         10/21 12:28   0+00:00:00 I  0   0.0  runit.sh          
+116368.0   ferris         10/21 12:29   0+00:00:00 I  0   0.0  runit.sh          
+116369.0   ferris         10/21 12:30   0+00:00:00 I  0   0.0  runit.sh          
+116370.0   ferris         10/21 12:30   0+00:00:00 I  0   0.0  runit.sh          
+116371.0   ferris         10/21 12:31   0+00:00:00 I  0   0.0  runit.sh          
+116372.0   ferris         10/21 12:32   0+00:00:00 I  0   0.0  runit.sh          
+116373.0   ferris         10/21 12:33   0+00:00:00 I  0   0.0  runit.sh          
+116374.0   ferris         10/21 12:35   0+00:00:00 I  0   0.0  runit.sh          
+116375.0   ferris         10/21 12:35   0+00:00:00 I  0   0.0  runit.sh          
+116380.8   lsteiner       10/21 15:55   1+00:35:22 R  0   122.1 basins 8_basins   
+116380.22  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 22_basins  
+116380.35  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 35_basins  
+116380.56  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 56_basins  
+116380.64  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 64_basins  
+116380.65  lsteiner       10/21 15:55   1+00:35:21 R  0   2.0  basins 65_basins  
+116380.66  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 66_basins  
+116380.70  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 70_basins  
+116380.71  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 71_basins  
+116380.74  lsteiner       10/21 15:55   1+00:35:21 R  0   122.1 basins 74_basins  
+116380.86  lsteiner       10/21 15:55   1+00:34:37 R  0   2.0  basins 86_basins  
+116380.96  lsteiner       10/21 15:55   1+00:34:24 R  0   2.0  basins 96_basins  
+116385.0   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.1   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.2   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.3   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.4   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.5   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.6   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.7   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.8   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.9   xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.10  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.11  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.12  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.13  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.14  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.15  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.16  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.17  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.18  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.19  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.20  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.21  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.22  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.23  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.24  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.25  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.26  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.27  xliu           10/21 22:25   0+10:52:17 I  0   12.2 ldpc.std          
+116385.28  xliu           10/21 22:25   0+10:46:55 I  0   12.2 ldpc.std          
+116385.29  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.30  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.31  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.32  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.33  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.34  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.35  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.36  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.37  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.38  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.39  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.40  xliu           10/21 22:25   0+10:46:53 I  0   12.2 ldpc.std          
+116385.41  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.42  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.43  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.44  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.45  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.46  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.47  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.48  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.49  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.50  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.51  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.52  xliu           10/21 22:25   0+10:46:55 I  0   12.2 ldpc.std          
+116385.53  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.54  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.55  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.56  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.57  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.58  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.59  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.60  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.61  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.62  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.63  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.64  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.65  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.66  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.67  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.68  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.69  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.70  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.71  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.72  xliu           10/21 22:25   0+18:05:11 R  0   12.2 ldpc.std          
+116385.73  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.74  xliu           10/21 22:25   0+10:46:54 I  0   12.2 ldpc.std          
+116385.75  xliu           10/21 22:25   0+18:05:13 R  0   12.2 ldpc.std          
+116385.76  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.77  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.78  xliu           10/21 22:25   0+18:05:12 R  0   12.2 ldpc.std          
+116385.79  xliu           10/21 22:25   0+10:46:54 I  0   12.2 ldpc.std          
+116385.80  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.81  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.82  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.83  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.84  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.85  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.86  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.87  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.88  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.89  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.90  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.91  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.92  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.93  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.94  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.95  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.96  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.97  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.98  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.99  xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.100 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.101 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.102 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.103 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.104 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.105 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.106 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.107 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.108 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.109 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.110 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.111 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.112 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.113 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.114 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.115 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.116 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.117 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.118 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.119 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.120 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.121 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.122 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.123 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.124 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.125 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.126 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.127 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.128 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.129 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.130 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.131 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.132 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.133 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.134 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.135 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.136 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.137 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.138 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.139 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.140 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.141 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.142 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.143 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.144 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.145 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.146 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.147 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.148 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.149 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.150 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.151 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.152 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.153 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.154 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.155 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.156 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.157 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.158 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.159 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.160 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.161 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.162 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.163 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.164 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.165 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.166 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.167 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.168 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.169 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.170 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.171 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.172 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.173 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.174 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.175 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.176 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.177 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.178 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.179 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.180 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.181 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.182 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.183 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.184 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.185 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.186 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.187 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.188 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.189 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.190 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.191 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.192 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.193 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.194 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.195 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.196 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.197 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.198 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116385.199 xliu           10/21 22:25   0+00:00:00 I  0   9.8  ldpc.std          
+116386.0   eanderson      10/22 15:55   0+00:36:58 R  0   0.3  condor_dagman     
+116387.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116388.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116389.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116390.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116391.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116392.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116393.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116394.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116395.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116396.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116397.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116398.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116399.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116400.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116401.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116402.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116403.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116404.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116405.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116406.0   eanderson      10/22 15:55   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116407.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116408.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116409.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116410.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116411.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116412.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116413.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116414.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116415.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116416.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116417.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116418.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116419.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116420.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116421.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116422.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116423.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116424.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116425.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116426.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116427.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116428.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116429.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116430.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116431.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116432.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116433.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116434.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116435.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116436.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116437.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116438.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116439.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116440.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116441.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116442.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116443.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116444.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116445.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116446.0   eanderson      10/22 15:56   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116447.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116448.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116449.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116450.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116451.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116452.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116453.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116454.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116455.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116456.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116457.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116458.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116459.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116460.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116461.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116462.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116463.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116464.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116465.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116466.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116467.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116468.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116469.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116470.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116471.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116472.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116473.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116474.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116475.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116476.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116477.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116478.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116479.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116480.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116481.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116482.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116483.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116484.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116485.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116486.0   eanderson      10/22 15:57   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116487.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116488.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116489.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116490.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116491.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116492.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116493.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116494.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116495.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116496.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116497.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116498.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116499.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116500.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116501.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116502.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116503.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116504.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116505.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116506.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116507.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116508.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116509.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116510.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116511.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116512.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116513.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116514.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116515.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116516.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116517.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116518.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116519.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116520.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116521.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116522.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116523.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116524.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116525.0   eanderson      10/22 15:58   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116526.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116527.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116528.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116529.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116530.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116531.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116532.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116533.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116534.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116535.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116536.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116537.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116538.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116539.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116540.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116541.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116542.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116543.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116544.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116545.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116546.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116547.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116548.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116549.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116550.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116551.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116552.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116553.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116554.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116555.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116556.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116557.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116558.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116559.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116560.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116561.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116562.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116563.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116564.0   eanderson      10/22 15:59   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116565.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116566.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116567.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116568.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116569.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116570.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116571.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116572.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116573.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116574.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116575.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116576.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116577.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116578.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116579.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116580.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116581.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116582.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116583.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116584.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116585.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116586.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116587.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116588.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116589.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116590.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116591.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116592.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116593.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116594.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116595.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116596.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116597.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116598.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116599.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116600.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116601.0   eanderson      10/22 16:00   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116602.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116603.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116604.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116605.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116606.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116607.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116608.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116609.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116610.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116611.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116612.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116613.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116614.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116615.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116616.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116617.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116618.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116619.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116620.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116621.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116622.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116623.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116624.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116625.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116626.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116627.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116628.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116629.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116630.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116631.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116632.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116633.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116634.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116635.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116636.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116637.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116638.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116639.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116640.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116641.0   eanderson      10/22 16:01   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116642.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116643.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116644.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116645.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116646.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116647.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116648.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116649.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116650.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116651.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116652.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116653.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116654.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116655.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116656.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116657.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116658.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116659.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116660.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116661.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116662.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116663.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116664.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116665.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116666.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116667.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116668.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116669.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116670.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116671.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116672.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116673.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116674.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116675.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116676.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116677.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116678.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116679.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116680.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116681.0   eanderson      10/22 16:02   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116682.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116683.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116684.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116685.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116686.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116687.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116688.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116689.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116690.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116691.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116692.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116693.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116694.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116695.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116696.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116697.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116698.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116699.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116700.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116701.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116702.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116703.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116704.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116705.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116706.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116707.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116708.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116709.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116710.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116711.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116712.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116713.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116714.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116715.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116716.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116717.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116718.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116719.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116720.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116721.0   eanderson      10/22 16:03   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116722.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116723.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116724.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116725.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116726.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116727.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116728.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116729.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116730.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116731.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116732.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116733.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116734.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116735.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116736.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116737.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116738.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116739.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116740.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116741.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116742.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116743.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116744.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116745.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116746.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116747.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116748.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116749.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116750.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116751.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116752.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116753.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116754.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116755.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116756.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116757.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116758.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116759.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116760.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116761.0   eanderson      10/22 16:04   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116762.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116763.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116764.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116765.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116766.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116767.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116768.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116769.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116770.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116771.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116772.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116773.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116774.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116775.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116776.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116777.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116778.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116779.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116780.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116781.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116782.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116783.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116784.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116785.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116786.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116787.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116788.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116789.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116790.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116791.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116792.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116793.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116794.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116795.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116796.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116797.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116798.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116799.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116800.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116801.0   eanderson      10/22 16:05   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116802.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116803.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116804.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116805.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116806.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116807.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116808.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116809.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116810.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116811.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116812.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116813.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116814.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116815.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116816.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116817.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116818.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116819.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116820.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116821.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116822.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116823.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116824.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116825.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116826.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116827.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116828.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116829.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116830.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116831.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116832.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116833.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116834.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116835.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116836.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116837.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116838.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116839.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116840.0   eanderson      10/22 16:06   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116841.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116842.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116843.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116844.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116845.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116846.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116847.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116848.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116849.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116850.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116851.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116852.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116853.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116854.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116855.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116856.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116857.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116858.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116859.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116860.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116861.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116862.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116863.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116864.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116865.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116866.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116867.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116868.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116869.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116870.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116871.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116872.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116873.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116874.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116875.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116876.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116877.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116878.0   eanderson      10/22 16:07   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116879.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116880.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116881.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116882.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116883.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116884.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116885.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116886.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116887.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116888.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116889.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116890.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116891.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116892.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116893.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116894.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116895.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116896.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116897.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116898.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116899.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116900.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116901.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116902.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116903.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116904.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116905.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116906.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116907.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116908.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116909.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116910.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116911.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116912.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116913.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116914.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116915.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116916.0   eanderson      10/22 16:08   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116917.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116918.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116919.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116920.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116921.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116922.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116923.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116924.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116925.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116926.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116927.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116928.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116929.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116930.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116931.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116932.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116933.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116934.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116935.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116936.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116937.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116938.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116939.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116940.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116941.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116942.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116943.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116944.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116945.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116946.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116947.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116948.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116949.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116950.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116951.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116952.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116953.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116954.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116955.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116956.0   eanderson      10/22 16:09   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116957.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116958.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116959.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116960.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116961.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116962.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116963.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116964.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116965.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116966.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116967.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116968.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116969.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116970.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116971.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116972.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116973.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116974.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116975.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116976.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116977.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116978.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116979.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116980.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116981.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116982.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116983.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116984.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116985.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116986.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116987.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116988.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116989.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116990.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+116991.0   eanderson      10/22 16:10   0+00:00:00 I  0   0.0  chtcjobwrapper --t
+
+860 jobs; 0 completed, 0 removed, 753 idle, 101 running, 6 held, 0 suspended

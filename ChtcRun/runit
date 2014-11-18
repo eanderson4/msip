@@ -1,0 +1,155 @@
+#! /bin/sh
+if [ -n "$1" ]
+then
+    echo "Some input entered"
+    echo $1
+    FILE=$1
+else
+    echo "no input entered"
+    FILE="runitlog"
+fi
+
+
+if [ -f $FILE ];
+then
+    echo "File $FILE exists, need different name"
+else
+    echo "Using $FILE for runit log"
+fi
+
+isNotDone=true
+
+#cat <<EOF >$FILE
+#Starting runit outer loop for optimization routine
+#EOF
+
+echo "-proc.py start" > $FILE
+condor_q eanderson > condor_q_output
+Proc.py $FILE condor_q_output
+command=$(tail -1 $FILE)
+echo $command
+
+iteration=0
+
+ls -d step* > tempfile
+echo "-proc.py iteration" > $FILE
+Proc.py $FILE tempfile
+iteration=$(tail -1 $FILE)
+echo $iteration
+sleep 3
+if [ "-notrunning" = "$command" ] && [ $iteration = -1 ]
+then
+cd Powerin
+echo "consub_1d"
+./consub_1d.py -c grid2.gr LINESIN
+sleep 5
+cd ../
+mkdag
+sleep 3
+mkdag --data=Powerin --outputdir=step0 --cmdtorun=arrive.py --pattern=want.lao --pattern=want.lsa --type=Other
+cd step0
+sleep 5
+condor_submit_dag mydag.dag
+sleep 7
+cd ../
+((iteration++))
+fi
+
+
+loop=0
+
+
+
+while $isNotDone; do
+    #RUN MASTER LOOP
+    let loop+=1
+    echo "LOOP: $loop" >> $FILE
+    echo "-condor_q" >> $FILE
+    condor_q eanderson > condor_q_output
+    echo "-proc.py check_queue" >> $FILE
+    Proc.py $FILE condor_q_output
+    
+    command=$(tail -1 $FILE)
+#    echo $command
+
+    if [ "-dosomething" = "$command" ]
+    then
+	#FIND AWARENESS
+	echo "Doing SOMETHING!"
+#	ls step*
+
+	#CLEAN UP
+	echo "Need to CLEAN!"
+
+	#MAKE MOVES
+	echo "Ready to MOVE!"
+#	mkdag
+#####################################IN WORK
+	if [ $iteration = 0 ]
+	then
+	    cd Powerin
+	    consub_1d.py -p grid2.gr LINESIN
+	    sleep 7
+#	    rm -r ../step0/*.*.*
+#	    rm ../step0/mydag*
+	    sleep 5
+	    cp 1d*dat ../step0/
+	    cp subset.lines ../step0/
+	    sleep 7
+	    consub_1d.py -clean grid2.gr LINESIN
+	    rm ./1d_*dat
+	    rm LIST_*
+	else
+	    cd Powerin
+	    allocate.py -p allocate.lines ../step$iteration
+	    sleep 5
+	    transposeFile.py allocate.lines ../step$iteration/
+#	    rm -r ../step$iteration/*/
+#	    rm ../step$iteration/mydag*
+	    sleep 7
+	    cp n*dat ../step$iteration/
+	    cp allocate.lines ../step$iteration
+	    cp allocate.picks ../step$iteration
+	    cp search.lines ../step$iteration
+	    cp point.cap ../step$iteration
+	    cp point.lsa ../step$iteration
+	    cp point.lao ../step$iteration
+	    sleep 5 
+	    allocate.py -clean allocate.lines
+	    rm n*dat
+	fi
+
+	
+	if [ $iteration = 0 ]
+	then
+	    allocate.py -picks subset.lines ../step0/1d_
+	    allocate.py -c subset.lines ../step0/1d_
+	else
+	    allocate.py -point allocate.lines ../step$iteration/
+	    sleep 10
+#	    ls ../step$iteration/
+	    sleep 10
+	    allocate.py -step point.cap search.lines
+	    sleep 10
+
+	fi
+	sleep 25
+
+	((iteration++))
+
+
+	cd ..
+	mkdag --data=Powerin --outputdir=step$iteration --cmdtorun=arrive.py --pattern=want.lao --pattern=want.lsa --type=Other
+	cd step$iteration
+	sleep 7
+	condor_submit_dag mydag.dag
+	cd ..  
+	sleep 5
+    fi
+#################################INWORK
+
+    sleep 7
+
+
+done
+

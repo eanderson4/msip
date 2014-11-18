@@ -1,0 +1,777 @@
+-proc.py iteration
+-1LOOP: 1
+-condor_q
+-proc.py check_queue
+LOOP: 2
+-condor_q
+-proc.py check_queue
+LOOP: 3
+-condor_q
+-proc.py check_queue
+LOOP: 4
+-condor_q
+-proc.py check_queue
+LOOP: 5
+-condor_q
+-proc.py check_queue
+LOOP: 6
+-condor_q
+-proc.py check_queue
+LOOP: 7
+-condor_q
+-proc.py check_queue
+LOOP: 8
+-condor_q
+-proc.py check_queue
+LOOP: 9
+-condor_q
+-proc.py check_queue
+LOOP: 10
+-condor_q
+-proc.py check_queue
+LOOP: 11
+-condor_q
+-proc.py check_queue
+LOOP: 12
+-condor_q
+-proc.py check_queue
+LOOP: 13
+-condor_q
+-proc.py check_queue
+LOOP: 14
+-condor_q
+-proc.py check_queue
+LOOP: 15
+-condor_q
+-proc.py check_queue
+LOOP: 16
+-condor_q
+-proc.py check_queue
+LOOP: 17
+-condor_q
+-proc.py check_queue
+LOOP: 18
+-condor_q
+-proc.py check_queue
+LOOP: 19
+-condor_q
+-proc.py check_queue
+LOOP: 20
+-condor_q
+-proc.py check_queue
+LOOP: 21
+-condor_q
+-proc.py check_queue
+LOOP: 22
+-condor_q
+-proc.py check_queue
+LOOP: 23
+-condor_q
+-proc.py check_queue
+LOOP: 24
+-condor_q
+-proc.py check_queue
+LOOP: 25
+-condor_q
+-proc.py check_queue
+LOOP: 26
+-condor_q
+-proc.py check_queue
+LOOP: 27
+-condor_q
+-proc.py check_queue
+LOOP: 28
+-condor_q
+-proc.py check_queue
+LOOP: 29
+-condor_q
+-proc.py check_queue
+LOOP: 30
+-condor_q
+-proc.py check_queue
+LOOP: 31
+-condor_q
+-proc.py check_queue
+LOOP: 32
+-condor_q
+-proc.py check_queue
+LOOP: 33
+-condor_q
+-proc.py check_queue
+LOOP: 34
+-condor_q
+-proc.py check_queue
+LOOP: 35
+-condor_q
+-proc.py check_queue
+LOOP: 36
+-condor_q
+-proc.py check_queue
+LOOP: 37
+-condor_q
+-proc.py check_queue
+LOOP: 38
+-condor_q
+-proc.py check_queue
+LOOP: 39
+-condor_q
+-proc.py check_queue
+LOOP: 40
+-condor_q
+-proc.py check_queue
+LOOP: 41
+-condor_q
+-proc.py check_queue
+LOOP: 42
+-condor_q
+-proc.py check_queue
+LOOP: 43
+-condor_q
+-proc.py check_queue
+LOOP: 44
+-condor_q
+-proc.py check_queue
+LOOP: 45
+-condor_q
+-proc.py check_queue
+LOOP: 46
+-condor_q
+-proc.py check_queue
+LOOP: 47
+-condor_q
+-proc.py check_queue
+LOOP: 48
+-condor_q
+-proc.py check_queue
+LOOP: 49
+-condor_q
+-proc.py check_queue
+LOOP: 50
+-condor_q
+-proc.py check_queue
+LOOP: 51
+-condor_q
+-proc.py check_queue
+LOOP: 52
+-condor_q
+-proc.py check_queue
+LOOP: 53
+-condor_q
+-proc.py check_queue
+LOOP: 54
+-condor_q
+-proc.py check_queue
+LOOP: 55
+-condor_q
+-proc.py check_queue
+LOOP: 56
+-condor_q
+-proc.py check_queue
+LOOP: 57
+-condor_q
+-proc.py check_queue
+LOOP: 58
+-condor_q
+-proc.py check_queue
+LOOP: 59
+-condor_q
+-proc.py check_queue
+LOOP: 60
+-condor_q
+-proc.py check_queue
+LOOP: 61
+-condor_q
+-proc.py check_queue
+LOOP: 62
+-condor_q
+-proc.py check_queue
+LOOP: 63
+-condor_q
+-proc.py check_queue
+LOOP: 64
+-condor_q
+-proc.py check_queue
+LOOP: 65
+-condor_q
+-proc.py check_queue
+LOOP: 66
+-condor_q
+-proc.py check_queue
+LOOP: 67
+-condor_q
+-proc.py check_queue
+LOOP: 68
+-condor_q
+-proc.py check_queue
+LOOP: 69
+-condor_q
+-proc.py check_queue
+LOOP: 70
+-condor_q
+-proc.py check_queue
+LOOP: 71
+-condor_q
+-proc.py check_queue
+LOOP: 72
+-condor_q
+-proc.py check_queue
+LOOP: 73
+-condor_q
+-proc.py check_queue
+LOOP: 74
+-condor_q
+-proc.py check_queue
+LOOP: 75
+-condor_q
+-proc.py check_queue
+LOOP: 76
+-condor_q
+-proc.py check_queue
+LOOP: 77
+-condor_q
+-proc.py check_queue
+LOOP: 78
+-condor_q
+-proc.py check_queue
+LOOP: 79
+-condor_q
+-proc.py check_queue
+LOOP: 80
+-condor_q
+-proc.py check_queue
+LOOP: 81
+-condor_q
+-proc.py check_queue
+LOOP: 82
+-condor_q
+-proc.py check_queue
+LOOP: 83
+-condor_q
+-proc.py check_queue
+LOOP: 84
+-condor_q
+-proc.py check_queue
+LOOP: 85
+-condor_q
+-proc.py check_queue
+LOOP: 86
+-condor_q
+-proc.py check_queue
+LOOP: 87
+-condor_q
+-proc.py check_queue
+LOOP: 88
+-condor_q
+-proc.py check_queue
+LOOP: 89
+-condor_q
+-proc.py check_queue
+LOOP: 90
+-condor_q
+-proc.py check_queue
+LOOP: 91
+-condor_q
+-proc.py check_queue
+LOOP: 92
+-condor_q
+-proc.py check_queue
+LOOP: 93
+-condor_q
+-proc.py check_queue
+LOOP: 94
+-condor_q
+-proc.py check_queue
+LOOP: 95
+-condor_q
+-proc.py check_queue
+LOOP: 96
+-condor_q
+-proc.py check_queue
+LOOP: 97
+-condor_q
+-proc.py check_queue
+LOOP: 98
+-condor_q
+-proc.py check_queue
+LOOP: 99
+-condor_q
+-proc.py check_queue
+LOOP: 100
+-condor_q
+-proc.py check_queue
+LOOP: 101
+-condor_q
+-proc.py check_queue
+LOOP: 102
+-condor_q
+-proc.py check_queue
+LOOP: 103
+-condor_q
+-proc.py check_queue
+LOOP: 104
+-condor_q
+-proc.py check_queue
+LOOP: 105
+-condor_q
+-proc.py check_queue
+LOOP: 106
+-condor_q
+-proc.py check_queue
+LOOP: 107
+-condor_q
+-proc.py check_queue
+LOOP: 108
+-condor_q
+-proc.py check_queue
+LOOP: 109
+-condor_q
+-proc.py check_queue
+LOOP: 110
+-condor_q
+-proc.py check_queue
+LOOP: 111
+-condor_q
+-proc.py check_queue
+LOOP: 112
+-condor_q
+-proc.py check_queue
+LOOP: 113
+-condor_q
+-proc.py check_queue
+LOOP: 114
+-condor_q
+-proc.py check_queue
+LOOP: 115
+-condor_q
+-proc.py check_queue
+LOOP: 116
+-condor_q
+-proc.py check_queue
+LOOP: 117
+-condor_q
+-proc.py check_queue
+LOOP: 118
+-condor_q
+-proc.py check_queue
+LOOP: 119
+-condor_q
+-proc.py check_queue
+LOOP: 120
+-condor_q
+-proc.py check_queue
+LOOP: 121
+-condor_q
+-proc.py check_queue
+LOOP: 122
+-condor_q
+-proc.py check_queue
+LOOP: 123
+-condor_q
+-proc.py check_queue
+LOOP: 124
+-condor_q
+-proc.py check_queue
+LOOP: 125
+-condor_q
+-proc.py check_queue
+LOOP: 126
+-condor_q
+-proc.py check_queue
+LOOP: 127
+-condor_q
+-proc.py check_queue
+LOOP: 128
+-condor_q
+-proc.py check_queue
+LOOP: 129
+-condor_q
+-proc.py check_queue
+LOOP: 130
+-condor_q
+-proc.py check_queue
+LOOP: 131
+-condor_q
+-proc.py check_queue
+LOOP: 132
+-condor_q
+-proc.py check_queue
+LOOP: 133
+-condor_q
+-proc.py check_queue
+LOOP: 134
+-condor_q
+-proc.py check_queue
+LOOP: 135
+-condor_q
+-proc.py check_queue
+LOOP: 136
+-condor_q
+-proc.py check_queue
+LOOP: 137
+-condor_q
+-proc.py check_queue
+LOOP: 138
+-condor_q
+-proc.py check_queue
+LOOP: 139
+-condor_q
+-proc.py check_queue
+LOOP: 140
+-condor_q
+-proc.py check_queue
+LOOP: 141
+-condor_q
+-proc.py check_queue
+LOOP: 142
+-condor_q
+-proc.py check_queue
+LOOP: 143
+-condor_q
+-proc.py check_queue
+LOOP: 144
+-condor_q
+-proc.py check_queue
+LOOP: 145
+-condor_q
+-proc.py check_queue
+LOOP: 146
+-condor_q
+-proc.py check_queue
+LOOP: 147
+-condor_q
+-proc.py check_queue
+LOOP: 148
+-condor_q
+-proc.py check_queue
+LOOP: 149
+-condor_q
+-proc.py check_queue
+LOOP: 150
+-condor_q
+-proc.py check_queue
+LOOP: 151
+-condor_q
+-proc.py check_queue
+LOOP: 152
+-condor_q
+-proc.py check_queue
+LOOP: 153
+-condor_q
+-proc.py check_queue
+LOOP: 154
+-condor_q
+-proc.py check_queue
+LOOP: 155
+-condor_q
+-proc.py check_queue
+LOOP: 156
+-condor_q
+-proc.py check_queue
+LOOP: 157
+-condor_q
+-proc.py check_queue
+LOOP: 158
+-condor_q
+-proc.py check_queue
+LOOP: 159
+-condor_q
+-proc.py check_queue
+LOOP: 160
+-condor_q
+-proc.py check_queue
+LOOP: 161
+-condor_q
+-proc.py check_queue
+LOOP: 162
+-condor_q
+-proc.py check_queue
+LOOP: 163
+-condor_q
+-proc.py check_queue
+LOOP: 164
+-condor_q
+-proc.py check_queue
+LOOP: 165
+-condor_q
+-proc.py check_queue
+LOOP: 166
+-condor_q
+-proc.py check_queue
+LOOP: 167
+-condor_q
+-proc.py check_queue
+LOOP: 168
+-condor_q
+-proc.py check_queue
+LOOP: 169
+-condor_q
+-proc.py check_queue
+LOOP: 170
+-condor_q
+-proc.py check_queue
+LOOP: 171
+-condor_q
+-proc.py check_queue
+LOOP: 172
+-condor_q
+-proc.py check_queue
+LOOP: 173
+-condor_q
+-proc.py check_queue
+LOOP: 174
+-condor_q
+-proc.py check_queue
+LOOP: 175
+-condor_q
+-proc.py check_queue
+LOOP: 176
+-condor_q
+-proc.py check_queue
+LOOP: 177
+-condor_q
+-proc.py check_queue
+LOOP: 178
+-condor_q
+-proc.py check_queue
+LOOP: 179
+-condor_q
+-proc.py check_queue
+LOOP: 180
+-condor_q
+-proc.py check_queue
+LOOP: 181
+-condor_q
+-proc.py check_queue
+LOOP: 182
+-condor_q
+-proc.py check_queue
+LOOP: 183
+-condor_q
+-proc.py check_queue
+LOOP: 184
+-condor_q
+-proc.py check_queue
+LOOP: 185
+-condor_q
+-proc.py check_queue
+LOOP: 186
+-condor_q
+-proc.py check_queue
+LOOP: 187
+-condor_q
+-proc.py check_queue
+LOOP: 188
+-condor_q
+-proc.py check_queue
+LOOP: 189
+-condor_q
+-proc.py check_queue
+LOOP: 190
+-condor_q
+-proc.py check_queue
+LOOP: 191
+-condor_q
+-proc.py check_queue
+LOOP: 192
+-condor_q
+-proc.py check_queue
+LOOP: 193
+-condor_q
+-proc.py check_queue
+LOOP: 194
+-condor_q
+-proc.py check_queue
+LOOP: 195
+-condor_q
+-proc.py check_queue
+LOOP: 196
+-condor_q
+-proc.py check_queue
+LOOP: 197
+-condor_q
+-proc.py check_queue
+LOOP: 198
+-condor_q
+-proc.py check_queue
+LOOP: 199
+-condor_q
+-proc.py check_queue
+LOOP: 200
+-condor_q
+-proc.py check_queue
+LOOP: 201
+-condor_q
+-proc.py check_queue
+LOOP: 202
+-condor_q
+-proc.py check_queue
+LOOP: 203
+-condor_q
+-proc.py check_queue
+LOOP: 204
+-condor_q
+-proc.py check_queue
+LOOP: 205
+-condor_q
+-proc.py check_queue
+LOOP: 206
+-condor_q
+-proc.py check_queue
+LOOP: 207
+-condor_q
+-proc.py check_queue
+LOOP: 208
+-condor_q
+-proc.py check_queue
+LOOP: 209
+-condor_q
+-proc.py check_queue
+LOOP: 210
+-condor_q
+-proc.py check_queue
+LOOP: 211
+-condor_q
+-proc.py check_queue
+LOOP: 212
+-condor_q
+-proc.py check_queue
+LOOP: 213
+-condor_q
+-proc.py check_queue
+LOOP: 214
+-condor_q
+-proc.py check_queue
+LOOP: 215
+-condor_q
+-proc.py check_queue
+LOOP: 216
+-condor_q
+-proc.py check_queue
+LOOP: 217
+-condor_q
+-proc.py check_queue
+LOOP: 218
+-condor_q
+-proc.py check_queue
+LOOP: 219
+-condor_q
+-proc.py check_queue
+LOOP: 220
+-condor_q
+-proc.py check_queue
+LOOP: 221
+-condor_q
+-proc.py check_queue
+LOOP: 222
+-condor_q
+-proc.py check_queue
+LOOP: 223
+-condor_q
+-proc.py check_queue
+LOOP: 224
+-condor_q
+-proc.py check_queue
+LOOP: 225
+-condor_q
+-proc.py check_queue
+LOOP: 226
+-condor_q
+-proc.py check_queue
+LOOP: 227
+-condor_q
+-proc.py check_queue
+LOOP: 228
+-condor_q
+-proc.py check_queue
+LOOP: 229
+-condor_q
+-proc.py check_queue
+LOOP: 230
+-condor_q
+-proc.py check_queue
+LOOP: 231
+-condor_q
+-proc.py check_queue
+LOOP: 232
+-condor_q
+-proc.py check_queue
+LOOP: 233
+-condor_q
+-proc.py check_queue
+LOOP: 234
+-condor_q
+-proc.py check_queue
+LOOP: 235
+-condor_q
+-proc.py check_queue
+LOOP: 236
+-condor_q
+-proc.py check_queue
+LOOP: 237
+-condor_q
+-proc.py check_queue
+LOOP: 238
+-condor_q
+-proc.py check_queue
+LOOP: 239
+-condor_q
+-proc.py check_queue
+LOOP: 240
+-condor_q
+-proc.py check_queue
+LOOP: 241
+-condor_q
+-proc.py check_queue
+LOOP: 242
+-condor_q
+-proc.py check_queue
+LOOP: 243
+-condor_q
+-proc.py check_queue
+LOOP: 244
+-condor_q
+-proc.py check_queue
+LOOP: 245
+-condor_q
+-proc.py check_queue
+LOOP: 246
+-condor_q
+-proc.py check_queue
+LOOP: 247
+-condor_q
+-proc.py check_queue
+LOOP: 248
+-condor_q
+-proc.py check_queue
+LOOP: 249
+-condor_q
+-proc.py check_queue
+LOOP: 250
+-condor_q
+-proc.py check_queue
+LOOP: 251
+-condor_q
+-proc.py check_queue
+LOOP: 252
+-condor_q
+-proc.py check_queue
+LOOP: 253
+-condor_q
+-proc.py check_queue
+LOOP: 254
+-condor_q
+-proc.py check_queue
+LOOP: 255
+-condor_q
+-proc.py check_queue
+LOOP: 256
+-condor_q
+-proc.py check_queue
+LOOP: 257
+-condor_q
+-proc.py check_queue
+LOOP: 258
+-condor_q
+-proc.py check_queue
+LOOP: 259
+-condor_q
